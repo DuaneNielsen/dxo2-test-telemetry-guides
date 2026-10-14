@@ -106,4 +106,7 @@ has the full list.
 
 ## License
 
-No license has been chosen yet.
+[MIT](LICENSE). These are how-to guides and small example scripts; use them freely.
+
+This is an independent, unofficial guide. DX O2 is a Broadcom product, and
+this repository is not Broadcom documentation.
